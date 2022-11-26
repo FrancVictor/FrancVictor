@@ -1,4 +1,4 @@
-<img src="banner.gif" width="800px" height="200">
+<img src="banner.gif" width="1000px" height="200">
 <h3>Olá, Seja bem vindo ao meu Perfil GitHub 👋<h3>
 
 
