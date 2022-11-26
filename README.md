@@ -1,5 +1,7 @@
-<img src="banner.gif" width="1000px" height="300">
+<body text-center>
+<img src="banner.gif" width="300px">
 <h2>Olá, Seja bem vindo ao meu Perfil GitHub 👋<h2>
+  </body>
 
 
 - 🎓 Cursando Análise e desenvolvimento de sistemas...
