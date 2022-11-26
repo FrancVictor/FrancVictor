@@ -1,4 +1,4 @@
-<img src="banner.gif" width="600px">
+<img src="banner.gif" width="600px" height="200">
 ### Olá, Seja bem vindo ao meu Perfil GitHub 👋
 
 
