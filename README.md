@@ -1,18 +1,19 @@
-<body text-center>
-<img src="banner.gif" width="300px">
-<h2>Olá, Seja bem vindo ao meu Perfil GitHub 👋<h2>
-  </body>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=FrancVictor&theme=jolly&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=FrancVictor&theme=jolly&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancVictor&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+# 💫 About Me:
+🎓 Cursando Análise e desenvolvimento de sistemas...<br> 👨‍🎓 Faculdade Descomplica UniAmérica ...<br> ✍️ Usando Git/Github, Visual Studio Code ...<br> 🔶 Camaçari/Salvador BA ...
+# 💻 Tech:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/victor_francabjj/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jo%C3%A3o-victor-silveira-73ba21255/) 
 
 
-- 🎓 Cursando Análise e desenvolvimento de sistemas...
-- 👨‍🎓 Faculdade Descomplica UniAmérica ...
-- ✍️ Usando Git/Github, Visual Studio Code ...
-- 🔶 Camaçari/Salvador BA ...
-  - 🔹<a href="https://www.instagram.com/victor_francabjj/">Instagram</a>
 
-<div>
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg"  height="40">
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=FrancVictor&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
