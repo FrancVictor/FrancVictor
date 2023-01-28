@@ -1,5 +1,10 @@
 # 👤 About Me:
-🎓 Cursando Análise e desenvolvimento de sistemas...<br> 👨‍🎓 Faculdade Descomplica UniAmérica ...<br> ✍️ Usando Git/Github, Visual Studio Code ...<br> 🔶 Camaçari/Salvador BA ...<br>
+<div>
+🎓 Cursando Análise e desenvolvimento de sistemas...<br> 👨‍🎓 Faculdade Descomplica UniAmérica ...<br> ✍️ Usando Git/Github, Visual Studio Code ...<br> 🔶 Camaçari/Salvador BA ...
+</div><div>
+<img height="200px" width="200px "src="https://user-images.githubusercontent.com/119083249/215239061-909aa5cd-029f-4993-b693-6b3fcb1a12af.gif"/>
+</div>
+ 
 
 # GitHub Stats:
  <img width="400em" align="center" src="https://github-readme-stats.vercel.app/api?username=FrancVictor&show_icons=false&theme=jolly" title="FrancVictor's status" alt="FrancVictor's Stats"/> <img width="400em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancVictor&layout=compact&theme=jolly" title="FrancVictor most languages" alt="FrancVictor's stats"/> 
