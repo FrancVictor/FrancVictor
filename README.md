@@ -1,9 +1,7 @@
 # 👤 About Me:
 <div>
 🎓 Cursando Análise e desenvolvimento de sistemas...<br> 👨‍🎓 Faculdade Descomplica UniAmérica ...<br> ✍️ Usando Git/Github, Visual Studio Code ...<br> 🔶 Camaçari/Salvador BA ...
-</div><div>
-<img height="200px" width="200px "src="https://user-images.githubusercontent.com/119083249/215239061-909aa5cd-029f-4993-b693-6b3fcb1a12af.gif"/>
-</div>
+
  
 
 # GitHub Stats:
@@ -15,7 +13,9 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/victor_francabjj/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jo%C3%A3o-victor-silveira-73ba21255/) 
-
+<div>
+<img height="200px" width="200px "src="https://user-images.githubusercontent.com/119083249/215239061-909aa5cd-029f-4993-b693-6b3fcb1a12af.gif"/>
+</div>
 
 
 ---
